@@ -1,3 +1,4 @@
+```markdown
 # Suhani-GGH-413425701979
 GOOGLE GIRL HACKATHON (Adaptive Learning for Basic Education)
 
@@ -11,7 +12,7 @@ To run ElevateU locally, follow these steps:
 
 1. **Clone the Repository:** 
    ```
-   git clone https:/Suh-1408/github.com//ElevateU.git
+   git clone https://github.com/suh-1408/ElevateU.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -54,8 +55,9 @@ ElevateU offers a seamless learning experience:
 ## Technologies Used
 
 - **Frontend:** TypeScript with TSX (React)
-- **Backend:** Node.js
+- **Backend:** Django, Node.js
 - **Database:** SQLite3
+- **Models:** OpenAI API
 
 ## Contributing
 
@@ -68,10 +70,7 @@ Contributions are welcome! If you'd like to contribute to ElevateU, please follo
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
-## Contact
-
-For any inquiries or support, please contact [Your Name](mailto:suhanipandey1974@gmail.com).
-
 ---
 
 Thank you for choosing ElevateU to elevate your learning journey!
+```
