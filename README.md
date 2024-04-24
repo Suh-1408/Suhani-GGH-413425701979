@@ -11,7 +11,7 @@ To run ElevateU locally, follow these steps:
 
 1. **Clone the Repository:** 
    ```
-   git clone https://github.com/your-username/ElevateU.git
+   git clone https:/Suh-1408/github.com//ElevateU.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -68,13 +68,9 @@ Contributions are welcome! If you'd like to contribute to ElevateU, please follo
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-For any inquiries or support, please contact [Your Name](mailto:youremail@example.com).
+For any inquiries or support, please contact [Your Name](mailto:suhanipandey1974@gmail.com).
 
 ---
 
