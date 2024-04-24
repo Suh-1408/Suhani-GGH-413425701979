@@ -1,10 +1,6 @@
-```markdown
-# Suhani-GGH-413425701979
-GOOGLE GIRL HACKATHON (Adaptive Learning for Basic Education)
-
 # ElevateU
 
-ElevateU is a virtual tutor platform designed to revolutionize basic education through adaptive learning. This project leverages technology to assess learners' understanding levels in real-time and dynamically curates relevant content to enhance their learning experience. By providing personalized learning pathways, ElevateU aims to make education more engaging, effective, and accessible to all.
+ElevateU is a virtual tutor platform developed as part of the Google Girl Hackathon project, aimed at enhancing basic education through adaptive learning. The platform dynamically assesses learners' understanding levels and provides personalized learning pathways to optimize their educational experience.
 
 ## Installation
 
@@ -26,7 +22,7 @@ To run ElevateU locally, follow these steps:
    ```
 
 4. **Set Up SQLite Database:**
-   - ElevateU uses SQLite3 as its database. Make sure you have SQLite3 installed on your system.
+   - Make sure SQLite3 is installed on your system.
    - Run the following command to create the necessary tables:
      ```
      npm run db:migrate
@@ -38,13 +34,13 @@ To run ElevateU locally, follow these steps:
    ```
 
 6. **Access the Application:**
-   - Once the server is running, you can access the application at `http://localhost:3000` in your web browser.
+   - Once the server is running, access the application at `http://localhost:3000` in your web browser.
 
 ## Usage
 
 ElevateU offers a seamless learning experience:
 
-- **Registration/Login:** Users can register or login to their accounts to access personalized learning content.
+- **Registration/Login:** Users can register or log in to their accounts to access personalized learning content.
   
 - **Assessment:** The platform assesses the learner's understanding level at every step using quizzes, interactive exercises, or other assessment methods.
 
@@ -71,6 +67,3 @@ Contributions are welcome! If you'd like to contribute to ElevateU, please follo
 6. Create a new Pull Request.
 
 ---
-
-Thank you for choosing ElevateU to elevate your learning journey!
-```
