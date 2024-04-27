@@ -29,7 +29,7 @@ export function UploadJD({
 
 
   const makeAPICall = async () => {
-    const apiKey = 'sk-proj-CtUDBg8sv4J4ZgnbaaHYT3BlbkFJmrbjgAK31GDXl8bH9qYA'; 
+    const apiKey = ''; 
     const endpoint = 'https://api.openai.com/v1/chat/completions'; 
     
     if(jobDesc === ""){
