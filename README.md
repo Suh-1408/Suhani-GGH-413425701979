@@ -8,7 +8,8 @@ To run ElevateU locally, follow these steps:
 
 1. **Clone the Repository:** 
    ```
-   git clone https://github.com/suh-1408/ElevateU.git
+   git clone https://github.com/suh-1408/Suhani-GGH-413425701979.git
+   
    ```
 
 2. **Navigate to the Project Directory:**
